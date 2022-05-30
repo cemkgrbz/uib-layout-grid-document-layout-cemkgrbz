@@ -166,8 +166,6 @@ footer {
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: 150px;
-    row-gap: 20px;
-    justify-content: flex-end;
     padding: 20px 10vw;
 
 }
