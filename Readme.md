@@ -2,7 +2,7 @@
 
 https://cemkgrbz.github.io/uib-layout-grid-document-layout-cemkgrbz/
 
-# Grid Document Layout
+# Grid Document Layout 
 
 Using CSS Grid (and Flexbox if you like) recreate the reference image shown below -
 
